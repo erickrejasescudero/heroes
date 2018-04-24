@@ -6,3 +6,5 @@
 * Aquaman
 * Mujer Maravilla
 * Capitan América
+* Ironman
+* Vision
